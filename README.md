@@ -1,8 +1,6 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJqRBZDIfbld6UIhCjOBxqE3TEiSNCrVW8cA&usqp=CAU)]
-
 <h1 align="center">Hi 👋, I'm Himanshi Sharma</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshi-sharma-123&label=Profile%20views&color=0e75b6&style=flat" alt="himanshi-sharma-123" /> </p>
