@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshi-sharma-123&label=Profile%20views&color=0e75b6&style=flat" alt="himanshi-sharma-123" /> </p>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Full Stack**
 
 - 👨‍💻 All of my projects are available at [https://himanshi-sharma-portfolio.netlify.app](https://himanshi-sharma-portfolio.netlify.app)
 
