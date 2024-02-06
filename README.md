@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://himanshi-sharma-portfolio.netlify.app](https://himanshi-sharma-portfolio.netlify.app)
 
-- 💬 Ask me about **MERN Stack, Devops, Azure**
+- 💬 Ask me about **MERN Stack, Azure**
 
 - 📫 How to reach me **himanshish456@gmail.com**
 
