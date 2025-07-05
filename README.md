@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Himanshi Sharma</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A passionate Java developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshi-sharma-123&label=Profile%20views&color=0e75b6&style=flat" alt="himanshi-sharma-123" /> </p>
 
-- 🌱 I’m currently learning **Backend Development in Java**
+- 🌱 I’m currently working as a **Backend Development in Java**
+- 🌱 I’m currently learning new technologies in a **Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://himanshi-sharma-portfolio.netlify.app](https://himanshi-sharma-portfolio.netlify.app)
 
-- 💬 Ask me about **MERN Stack, Azure**
+- 💬 Ask me about **JAVA, Springboot, Mysql, AWS, MERN Stack, Azure**
 
 - 📫 How to reach me **himanshish456@gmail.com**
 
